@@ -15,6 +15,7 @@
 
 ## Tools and Frameworks
 ![vscode](https://skillicons.dev/icons?i=vscode)
+![sublime](https://skillicons.dev/icons?i=sublime)
 
 ## Other Skills
 ![BOT](https://skillicons.dev/icons?i=bots)
