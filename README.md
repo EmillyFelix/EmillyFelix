@@ -1,4 +1,4 @@
-# Hi there, you can call me Emilly, I'm 20 years old, currently living in Brazil and studying IT🖥️
+# Hi there, you can call me Ems, I'm 20 years old, currently living in Brazil and studying IT🖥️
 
 ## Contact me here
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/emilly-vitoria-felix/))
