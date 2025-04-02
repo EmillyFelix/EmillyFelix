@@ -1,9 +1,9 @@
 # Hi there! You can call me Ems. I'm 20 years old, currently living in Brazil and studying IT🖥️
 
 ## Contact me here
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/emilly-vitoria-felix/))
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)((https://www.linkedin.com/in/emilly-vitoria-felix/))]
 
-![Israel Leighton GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=emillyfelix&show_icons=true&theme=dracula)
+![Emilly Félix GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=emillyfelix&show_icons=true&theme=dracula)
 
 ## Programming Languages and Developer skills
 ![Python](https://skillicons.dev/icons?i=py)
