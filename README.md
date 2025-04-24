@@ -12,6 +12,8 @@
 ![JS](https://skillicons.dev/icons?i=javascript)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Vue](https://skillicons.dev/icons?i=vue)
+
 
 ## Tools and Frameworks
 ![vscode](https://skillicons.dev/icons?i=vscode)
